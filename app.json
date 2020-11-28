@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Fooodz scanner",
+    "slug": "Fooodz_scanner",
+    "privacy": "public",
+    "description": "Download link - https://1.envato.market/M3KWM",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode" : "contain",
+      "backgroundColor": "#FA575A"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "vn.tmstudio.envato.imba"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
